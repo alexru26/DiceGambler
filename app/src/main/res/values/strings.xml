@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceGambler</string>
+    <string name="or">OR</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="dice_2">Dice 2</string>
+    <string name="dice_1">Dice 1</string>
+    <string name="score">Score:</string>
+</resources>
