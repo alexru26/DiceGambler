@@ -6,4 +6,7 @@
     <string name="dice_2">Dice 2</string>
     <string name="dice_1">Dice 1</string>
     <string name="score">Score:</string>
+    <string name="todo">TODO</string>
+    <string name="dice1img">dice1img</string>
+    <string name="dice2img">dice2img</string>
 </resources>
